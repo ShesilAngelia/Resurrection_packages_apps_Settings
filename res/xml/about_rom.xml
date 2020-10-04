@@ -110,13 +110,13 @@
             android:key="devs"
             android:title="@string/dev_categorie_title">
         <com.android.settings.widgets.DeveloperPreference
-            android:title="Altan KRK"
+            android:title="Redha SK"
             android:icon="@drawable/rr_dev_one_icon"
-            android:summary="@string/altankrk_summary"
-            resurrection:nameDev="Altan KRK"
-            resurrection:gplusHandle="AltanKRK"
+            android:summary="@string/redhask_summary"
+            resurrection:nameDev="RedhaSK"
+            resurrection:gplusHandle="RedhaSK"
             resurrection:donateLink="@string/github_westcrip"
-            resurrection:emailDev="korukaltan@gmail.com"/>
+            resurrection:emailDev="redhask@gmail.com"/>
         </PreferenceCategory> 
 
         <PreferenceCategory
